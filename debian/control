@@ -1,0 +1,106 @@
+Source: labbe-min-ng
+Section: x11
+Priority: optional
+Maintainer: Mick Amadio <01micko@gmx.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1.0
+Rules-Requires-Root: no
+Homepage: https://github.com/01micko/labbe-min-ng
+Vcs-Git: https://github.com/01micko/labbe-min-ng.git
+Vcs-Browser: https://github.com/01micko/labbe-min-ng
+
+Package: labbe-min-bark
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-bark
+Recommends: gtk-update-icon-cache
+Conflicts: labbe-min-icons
+Description: labbe-min-bark icon set
+ This is the bark flavour icons set.
+
+Package: labbe-min-sage
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-sage
+Recommends: gtk-update-icon-cache
+Conflicts: labbe-min-icons
+Description: labbe-min-sage icon set
+ This is the sage flavour icons set.
+
+Package: labbe-min-arrongin
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-arrongin
+Recommends: gtk-update-icon-cache
+Description: labbe-min-arrongin icon set
+ This is the arrongin flavour icons set.
+
+Package: labbe-min-aurora
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-aurora
+Recommends: gtk-update-icon-cache
+Description: labbe-min-aurora icon set
+ This is the aurora flavour icons set.
+
+Package: labbe-min-cyberneon
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-cyberneon
+Recommends: gtk-update-icon-cache
+Description: labbe-min-cyberneon icon set
+ This is the cyberneon flavour icons set.
+
+Package: labbe-min-fitdance
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-fitdance
+Recommends: gtk-update-icon-cache
+Description: labbe-min-fitdance icon set
+ This is the fitdance flavour icons set.
+
+Package: labbe-min-oomox
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-oomox
+Recommends: gtk-update-icon-cache
+Description: labbe-min-oomox icon set
+ This is the oomox flavour icons set.
+
+Package: labbe-min-rainblue
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-rainblue
+Recommends: gtk-update-icon-cache
+Description: labbe-min-rainblue icon set
+ This is the rainblue flavour icons set.
+
+Package: labbe-min-sunrise
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-sunrise
+Recommends: gtk-update-icon-cache
+Description: labbe-min-sunrise icon set
+ This is the sunrise flavour icons set.
+
+Package: labbe-min-telinkrin
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-telinkrin
+Recommends: gtk-update-icon-cache
+Description: labbe-min-telinkrin icon set
+ This is the telinkrin flavour icons set.
+ .
+ The source package is named material-solarized-suruplusplus-ng
+ because of restrictions by GitHub on characters in repository names.
+
+Package: labbe-min-60spsycho
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-60spsycho
+Recommends: gtk-update-icon-cache
+Description: labbe-min-60spsycho icon set
+ This is the 60spsycho flavour icons set.
+
+Package: labbe-min-90ssummer
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-90ssummer
+Recommends: gtk-update-icon-cache
+Description: labbe-min-90ssummer icon set
+ This is the 90ssummer flavour icons set.
+
+Package: labbe-min-grey
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-grey
+Recommends: gtk-update-icon-cache
+Description: labbe-min-grey icon set
+ This is the grey flavour icons set.

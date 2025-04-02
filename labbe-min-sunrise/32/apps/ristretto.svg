@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="32px" width="32px" viewBox="0 0 192 192">
+ <defs>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#FF8501; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#FFCB01; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path style="fill:url(#sunrise);fill-opacity:0.3;stroke:#FFCB01;stroke-width:8" d="m 22,30 148,0 a 12 12 0 0 1 12,12  l 0,108 a 12,12 0 0 1 -12,12 l -148,0 a 12,12 0 0 1 -12,-12 l 0,-108 a 12,12 0 0 1 12,-12 z"/>
+  <path style="fill:#FFCB01" d="m 50,76 92,0 a 32,52 0 0 1 -32,52 l -28,0 a 32,52 0 0 1 -32,-52 z"/>
+  <path style="fill:#FFCB01" d="m 50,130 92,0 0,3 a 32,6 0 0 0 -32,6 l -28,0 a 32,6 0 0 0 -32,-6 z"/>
+  <path style="fill:#FFCB01" d="m 144,76 a 32,52 0 0 1 -4,26  q 30,-26 4,-26 z m 4,4 q 12,0 -4,16 z "/>
+</svg>

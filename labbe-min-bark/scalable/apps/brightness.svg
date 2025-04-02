@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="256px" width="256px" viewBox="0 0 192 192">
+ <defs>
+  <linearGradient id="bark" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#9D9D87; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#52523F; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path style="fill:url(#bark);fill-opacity:0.3;stroke:#52523F;stroke-width:8;" d="m 22,30 148,0 a 12 12 0 0 1 12,12  l 0,108 a 12,12 0 0 1 -12,12 l -148,0 a 12,12 0 0 1 -12,-12 l 0,-108 a 12,12 0 0 1 12,-12 z"/>
+  <path style="fill:url(#bark);stroke:none;" d="m 96,48 a 48 48 0 0 1 0,96 a 48 48 0 0 1 0,-96 z m 0,90 a 42,42 0 0 0 0,-84 z"/>
+ <g style="fill:url(#bark);stroke:none;">
+  <path d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(45 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(90 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(135 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(180 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(225 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(270 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+  <path transform="rotate(315 96 96)" d="m 96,158 -3,-4 0,-5 3,-4 3,4 0,5 z"/>
+ </g>
+</svg>

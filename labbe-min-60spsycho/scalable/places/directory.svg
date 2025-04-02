@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="256px" width="256px" viewBox="0 0 192 192">
+ <defs>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#df5940; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#d8d15f; stop-opacity:1"/>
+    <stop offset="0%" style="stop-color:#e9882a; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#279362; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path style="fill:url(#60spsycho);stroke:none" d="m 22,30 48,0 a 6 6 0 0 1 6,6 a 6 6 0 0 0 6,6 l 88,0 a 12 12 0 0 1 12,12  l 0,96 a 12,12 0 0 1 -12,12 l -148,0 a 12,12 0 0 1 -12,-12 l 0,-108 a 12,12 0 0 1 12,-12 z"/>
+</svg>
