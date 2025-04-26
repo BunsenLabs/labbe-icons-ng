@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="32px" width="32px" viewBox="0 0 192 192">
+ <defs>
+  <linearGradient id="sage" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#919D87; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#49594C; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path style="fill:url(#sage);fill-opacity:0.3;stroke:#49594C;stroke-width:8;" d="m 32,20 128,0 a 12 12 0 0 1 12,12  l 0,128 a 12,12 0 0 1 -12,12 l -128,0 a 12,12 0 0 1 -12,-12 l 0,-128 a 12,12 0 0 1 12,-12 z"/>
+ <g transform="scale(0.5)">
+ <g transform="translate(45,45)">
+  <path style="fill:url(#sage);" d="m 96,8 a 88 88 1 1 0 0.1,0 z m -0.1 104 a 16 16 0 1 1 0.1,0 z"/>
+ </g>
+ <g transform="translate(145,145)">
+  <path style="fill:url(#sage);stroke:none" d="m 96,8 a 88 88 1 1 0 0.1,0 z m -0.1 104 a 16 16 0 1 1 0.1,0 z"/>
+ </g>
+ </g>
+</svg>
