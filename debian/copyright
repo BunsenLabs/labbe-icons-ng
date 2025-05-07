@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: labbe-min-ng
-Source: https://github.com/01micko/labbe-min-ng
+Upstream-Name: labbe-icons-ng
+Source: https://github.com/01micko/labbe-icons-ng
 
 Files: *
 Copyright: 2025    Mick Amadio <01micko@gmx.com>
