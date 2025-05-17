@@ -11,96 +11,35 @@ Vcs-Browser: https://github.com/01micko/labbe-icons-ng
 
 Package: labbe-icons-bark
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-bark
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-icons-bark
 Recommends: gtk-update-icon-cache
-Conflicts: labbe-icons-icons
 Description: icons of the labbe-icons-bark icon set
  This is the bark flavour icons set.
 
 Package: labbe-icons-sage
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-sage
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-icons-sage
 Recommends: gtk-update-icon-cache
-Conflicts: labbe-icons-icons
 Description: icons of the labbe-icons-sage icon set
  This is the sage flavour icons set.
 
-Package: labbe-icons-arrongin
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-arrongin
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-arrongin icon set
- This is the arrongin flavour icons set.
-
-Package: labbe-icons-aurora
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-aurora
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-aurora icon set
- This is the aurora flavour icons set.
-
-Package: labbe-icons-cyberneon
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-cyberneon
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-cyberneon icon set
- This is the cyberneon flavour icons set.
-
-Package: labbe-icons-fitdance
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-fitdance
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-fitdance icon set
- This is the fitdance flavour icons set.
-
 Package: labbe-icons-oomox
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-oomox
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-icons-oomox
 Recommends: gtk-update-icon-cache
 Description: icons of the labbe-icons-oomox icon set
  This is the oomox flavour icons set.
 
-Package: labbe-icons-rainblue
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-rainblue
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-rainblue icon set
- This is the rainblue flavour icons set.
-
-Package: labbe-icons-sunrise
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-sunrise
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-sunrise icon set
- This is the sunrise flavour icons set.
-
 Package: labbe-icons-telinkrin
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-telinkrin
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-icons-telinkrin
 Recommends: gtk-update-icon-cache
 Description: icons of the labbe-icons-telinkrin icon set
  This is the telinkrin flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: labbe-icons-60spsycho
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-60spsycho
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-60spsycho icon set
- This is the 60spsycho flavour icons set.
-
-Package: labbe-icons-90ssummer
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-90ssummer
-Recommends: gtk-update-icon-cache
-Description: icons of the labbe-icons-90ssummer icon set
- This is the 90ssummer flavour icons set.
 
 Package: labbe-icons-grey
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-grey
+Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-icons-grey
 Recommends: gtk-update-icon-cache
 Description: icons of the labbe-icons-grey icon set
  This is the grey flavour icons set.
