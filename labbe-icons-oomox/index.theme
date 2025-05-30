@@ -112,6 +112,16 @@ Size=32
 Context=Apps
 Type=fixed
 
+[32/actions]
+Size=32
+Context=Actions
+Type=fixed
+
+[32/mimetypes]
+Size=32
+Context=Mimetypes
+Type=fixed
+
 [32@2x]
 Size=32
 Scale=2
@@ -202,14 +212,14 @@ MinSize=8
 MaxSize=512
 
 [scalable/actions]
-Size=scalable
+Size=256
 Context=Actions
 Type=Scalable
 MinSize=8
 MaxSize=512
 
 [scalable/mimetypes]
-Size=scalable
+Size=256
 Context=Mimetypes
 Type=Scalable
 MinSize=8
@@ -221,4 +231,3 @@ Context=Scalable@2x
 Type=Scalable
 MinSize=8
 MaxSize=512
-
