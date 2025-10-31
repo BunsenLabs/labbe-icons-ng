@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="256px" width="256px" viewBox="0 0 192 192">
- <defs>
+  <defs>
   <linearGradient id="sage" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" style="stop-color:#919D87; stop-opacity:1"/>
-    <stop offset="100%" style="stop-color:#49594C; stop-opacity:1"/>
+  <stop offset="0%" style="stop-color: #919D87; stop-opacity: 1"/>
+  <stop offset="100%" style="stop-color: #49594C; stop-opacity: 1"/>
   </linearGradient>
- </defs>
-  <path style="fill:url(#sage);fill-opacity:0.3;stroke:#49594C;stroke-width:6" d="m 32,20 128,0 a 12 12 0 0 1 12,12  l 0,128 a 12,12 0 0 1 -12,12 l -128,0 a 12,12 0 0 1 -12,-12 l 0,-128 a 12,12 0 0 1 12,-12 z"/>
+  </defs>
+  <path style="fill:url(#sage);fill-opacity:0.3;stroke:#49594C;stroke-width:4" d="m 32,20 128,0 a 12 12 0 0 1 12,12  l 0,128 a 12,12 0 0 1 -12,12 l -128,0 a 12,12 0 0 1 -12,-12 l 0,-128 a 12,12 0 0 1 12,-12 z"/>
   <path style="fill:#49594C44;stroke:#49594C;stroke-width:3" d="m 48 48 a 48 6 0 1 1 96 0 m -96 0 46 46 0 42 -20 12 a 24 3 1 0 0 44 0 l -20 -12 0 -42 46 -46 a 48 6 0 1 1 -96 0 z" />
   <path style="fill:#fffc0044;" d="m 72 72 23 23 23 -23 a 23 3 0 0 1 -46 0 z a 23 3 0 0 1 46 0"/>
   <path style="fill:#49594Cdd;" d="m 90 48 26 18 -26 18 z"/>

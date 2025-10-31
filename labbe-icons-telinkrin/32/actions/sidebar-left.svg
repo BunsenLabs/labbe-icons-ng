@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="32px" width="32px" viewBox="0 0 192 192">
- <defs>
+  <defs>
   <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" style="stop-color:#b2ced6; stop-opacity:1"/>
-    <stop offset="100%" style="stop-color:#6da5b7; stop-opacity:1"/>
+  <stop offset="0%" style="stop-color:#b2ced6; stop-opacity:1"/>
+  <stop offset="100%" style="stop-color:#6da5b7; stop-opacity:1"/>
   </linearGradient>
- </defs>
+  </defs>
   <path style="fill:url(#telinkrin);fill-opacity:1" d="m 42,50 108,0 a 12 12 0 0 1 12,12  l 0,68 a 12,12 0 0 1 -12,12 l -108,0 a 12,12 0 0 1 -12,-12 l 0,-68 a 12,12 0 0 1 12,-12 z m 40,12 0,68 68,0 0,-68 z"/>
 </svg>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="16px" width="16px" viewBox="0 0 192 192">
- <defs>
+  <defs>
   <linearGradient id="bark" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" style="stop-color:#9D9D87; stop-opacity:1"/>
-    <stop offset="100%" style="stop-color:#52523F; stop-opacity:1"/>
+  <stop offset="0%" style="stop-color: #9D9D87; stop-opacity: 1"/>
+  <stop offset="100%" style="stop-color: #52523F; stop-opacity: 1"/>
   </linearGradient>
- </defs>
+  </defs>
   <path style="fill:url(#bark);stroke:none;" d="m 96 46 a 30 30 0 0 1 66 28 a 280 280 0 0 1 -66 96 a 280 280 0 0 1 -66 -96 a 30 30 0 0 1 66 -28 z "/>
 </svg>

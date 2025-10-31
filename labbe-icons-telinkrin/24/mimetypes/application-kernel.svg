@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="24px" width="24px" viewBox="0 0 192 192">
- <defs>
+  <defs>
   <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" style="stop-color:#b2ced6; stop-opacity:1"/>
-    <stop offset="100%" style="stop-color:#6da5b7; stop-opacity:1"/>
+  <stop offset="0%" style="stop-color:#b2ced6; stop-opacity:1"/>
+  <stop offset="100%" style="stop-color:#6da5b7; stop-opacity:1"/>
   </linearGradient>
- </defs>
+  </defs>
   <path style="fill:url(#telinkrin);fill-opacity:0.3;stroke:#6da5b7;stroke-width:8;" d="m 32,20 128,0 a 12 12 0 0 1 12,12  l 0,128 a 12,12 0 0 1 -12,12 l -128,0 a 12,12 0 0 1 -12,-12 l 0,-128 a 12,12 0 0 1 12,-12 z"/>
- <g transform="matrix(1.294018,0,0,1.294018,-16.019607,-14.811571) scale(1.2) translate(20 25)" id="layer7">
+  <g transform="matrix(1.294018,0,0,1.294018,-16.019607,-14.811571) scale(1.2) translate(20 25)" id="layer7">
   <path d="M 38.268233,63.217702 C 30.342392,46.955879 33.106444,23.54371 52.447448,11.446189 c -0.760522,2.225209 -0.511318,5.935874 0.569665,8.706727 2.964812,6.838603 8.854186,12.644573 11.01065,23.677591 2.984979,15.441886 -2.669023,30.191892 -12.748335,41.803209 5.051205,-16.429376 7.605795,-36.467825 -4.494692,-46.31179 -8.46904,7.596239 -8.790828,14.669038 -8.516503,23.895776 z" style="display:inline;opacity:1;fill:url(#telinkrin);fill-opacity:1;stroke:none;stroke-width:0.07579473" />
- </g>
+  </g>
   <path style="fill:url(#telinkrin);stroke:none;" d="m 100,40 c -3,10 3,18 4,21 a 20 20 0 0 1 15,-9 q -6,-3 0,-6 a 20 20 0 0 0 -19,-6z"/>
   <path style="fill:url(#telinkrin);stroke:none;" d="m 80,138 q 6,10 6,20 q 0,-5 -3,-10 q -10,10 -12,10z"/>
   <path style="fill:#B47A18;stroke:none;" d="m 119,52 q -6,-3 0,-6 l 12,0 q 10,1 12,3z"/>
